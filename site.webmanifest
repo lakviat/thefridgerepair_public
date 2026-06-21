@@ -1,0 +1,22 @@
+{
+  "name": "The Fridge Repair",
+  "short_name": "Fridge Repair",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffdf3",
+  "theme_color": "#fff6c8",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg?v=04ca898",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/apple-touch-icon.svg?v=04ca898",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
