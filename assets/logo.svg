@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 132" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">The Fridge Repair</title>
+  <desc id="logoDesc">A refrigerator and wrench logo for The Fridge Repair.</desc>
+  <defs>
+    <linearGradient id="bodyBlue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#dff1fb" />
+    </linearGradient>
+    <linearGradient id="doorBlue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#fafdff" />
+      <stop offset="100%" stop-color="#cfe8f6" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#bf3740" />
+      <stop offset="100%" stop-color="#8e2a32" />
+    </linearGradient>
+  </defs>
+  <rect width="460" height="132" rx="24" fill="#eff8fd" />
+  <g transform="translate(18 14)">
+    <ellipse cx="46" cy="104" rx="34" ry="8" fill="#d7ebf7" />
+    <rect x="7" y="4" width="76" height="98" rx="24" fill="#17324d" />
+    <rect x="13" y="10" width="64" height="86" rx="20" fill="url(#bodyBlue)" />
+    <rect x="19" y="16" width="52" height="33" rx="14" fill="url(#doorBlue)" />
+    <rect x="19" y="53" width="52" height="37" rx="16" fill="url(#doorBlue)" />
+    <line x1="19" y1="51" x2="71" y2="51" stroke="#17324d" stroke-width="3.5" stroke-linecap="round" />
+    <rect x="57" y="25" width="5" height="12" rx="2.5" fill="#17324d" />
+    <rect x="57" y="64" width="5" height="15" rx="2.5" fill="#17324d" />
+    <g transform="translate(50 67) rotate(-34)">
+      <rect x="0" y="0" width="36" height="12" rx="6" fill="url(#accent)" />
+      <rect x="27" y="-8" width="12" height="28" rx="6" fill="#b1343c" />
+      <circle cx="9" cy="6" r="3" fill="#eff8fd" />
+    </g>
+  </g>
+  <g fill="#0b2540">
+    <text x="124" y="57" font-size="25" font-family="'Trebuchet MS', Arial, sans-serif" font-weight="700">
+      THE
+    </text>
+    <text x="124" y="92" font-size="42" font-family="'Trebuchet MS', Arial, sans-serif" font-weight="900">
+      FRIDGE REPAIR
+    </text>
+  </g>
+  <text x="125" y="114" font-size="16" font-family="'Trebuchet MS', Arial, sans-serif" fill="#d45f33" font-weight="700">
+    MIAMI | BROWARD | PALM BEACH
+  </text>
+</svg>
